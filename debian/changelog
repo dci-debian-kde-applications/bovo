@@ -3,6 +3,7 @@ bovo (4:4.10.2-2) UNRELEASED; urgency=low
   * Fix erroneous Upstream-Name in debian/copyright.
   * Remove legacy links file.
   * Add generated icon files.
+  * Add a basic manpage.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 08 Apr 2013 14:04:15 +0200
 

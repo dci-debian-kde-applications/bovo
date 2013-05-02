@@ -1,0 +1,16 @@
+.TH BOVO 6
+.SH NAME
+bovo \- KDE Five in a Row Board Game
+.SH SYNOPSIS
+.B bovo
+.I [Qt-options] [KDE-options]
+.SH DESCRIPTION
+.B Bovo
+is a game where two players take turns placing markers on the board,
+the winner being the first to complete a line of five markers.
+.so kdeopt.part
+.SH SEE ALSO
+More detailed user documentation is available from
+.BR help:/bovo
+(either enter this URL into \fBkonqueror\fP, or run `khelpcenter
+help:/bovo').
