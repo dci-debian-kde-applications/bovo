@@ -12,6 +12,7 @@ usr/share/icons/hicolor/32x32/apps/bovo.png
 usr/share/icons/hicolor/48x48/apps/bovo.png
 usr/share/icons/hicolor/64x64/apps/bovo.png
 usr/share/icons/hicolor/scalable/apps/bovo.svgz
+usr/share/kde4/apps/appdata/bovo.appdata.xml
 usr/share/kde4/apps/bovo/bovoui.rc
 usr/share/kde4/apps/bovo/themes/gomoku/theme.svg
 usr/share/kde4/apps/bovo/themes/gomoku/themerc
