@@ -24,7 +24,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/bovo.git
 Package: bovo
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: gomoku (five in line) board game
  Bovo is a game where two players take turns placing markers on the board,
  the winner being the first to complete a line of five markers.
