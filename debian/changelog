@@ -1,3 +1,9 @@
+bovo (4:14.12.2-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (14.12.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 Feb 2015 07:50:16 +0100
+
 bovo (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
@@ -142,7 +148,7 @@ bovo (4:4.11.80-0ubuntu1) trusty; urgency=low
 
  -- Rohan Garg <rohangarg@kubuntu.org>  Sat, 23 Nov 2013 17:24:34 +0100
 
-bovo (4:4.11.3-2) UNRELEASED; urgency=medium
+bovo (4:4.11.3-2) unstable; urgency=medium
 
   * Do not disable an empty test set.
   * Bump Standards-Version to 3.9.5, no changes needed.
@@ -297,4 +303,3 @@ bovo (4:4.9.90-0ubuntu1) raring-proposed; urgency=low
   * Initial release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Dec 2012 17:31:42 +0000
-
