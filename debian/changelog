@@ -1,6 +1,7 @@
-bovo (4:15.08.3-0ubuntu1) UNRELEASED; urgency=medium
+bovo (4:15.08.2-0ubuntu1) UNRELEASED; urgency=medium
 
   * Vivid backport. 
+  * Fix version. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 27 Oct 2015 02:58:15 +0000
 
