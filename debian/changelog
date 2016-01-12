@@ -4,6 +4,18 @@ bovo (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:26:23 +0000
 
+bovo (4:15.08.3-1) unstable; urgency=medium
+
+  * New upstream release (15.08.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Dec 2015 12:38:47 +0100
+
+bovo (4:15.08.2-1) unstable; urgency=medium
+
+  * New upstream release (15.08.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 16 Oct 2015 08:07:18 +0200
+
 bovo (4:15.08.2-0ubuntu1) wily; urgency=medium
 
   * Vivid backport
@@ -16,6 +28,14 @@ bovo (4:15.08.1-0ubuntu1) wily; urgency=medium
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 16:05:37 +0100
+
+bovo (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.04.0).
+  * New upstream release (15.04.1).
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 07 Sep 2015 23:27:34 +0200
 
 bovo (4:15.08.0-0ubuntu1) wily; urgency=medium
 
@@ -41,6 +61,12 @@ bovo (4:15.04.2-0ubuntu1) wily; urgency=medium
   * New upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 18:21:59 +0200
+
+bovo (4:14.12.3-1) experimental; urgency=medium
+
+  * New upstream release (14.12.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 29 Mar 2015 15:13:38 +0200
 
 bovo (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
