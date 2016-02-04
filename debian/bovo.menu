@@ -1,9 +1,0 @@
-?package(bovo):\
-	needs="x11"\
-	section="Games/Board"\
-	hints="KDE"\
-	title="Bovo"\
-	icon32x32="/usr/share/pixmaps/bovo.xpm"\
-	icon16x16="/usr/share/pixmaps/bovo-16.xpm"\
-	command="/usr/games/bovo"
-
