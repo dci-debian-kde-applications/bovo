@@ -1,10 +1,11 @@
-bovo (4:15.12.3-1~1.gbp351ad3) UNRELEASED; urgency=medium
+bovo (4:16.04.0-1~1.gbpab5f2d) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @351ad38ec83aab0d404b371c4eb37608b25935c0 **
+  ** SNAPSHOT build @ab5f2db176fd58f74de74e4dbcd3c511f545671e **
 
   * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:00:18 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 04:59:12 +0200
 
 bovo (4:15.12.1-1) experimental; urgency=medium
 
