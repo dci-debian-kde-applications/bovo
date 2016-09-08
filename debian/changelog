@@ -1,10 +1,16 @@
-bovo (4:16.08.0-1~1.gbp31dc00) UNRELEASED; urgency=medium
+bovo (4:16.08.1-1~1.gbpbf1a5d) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @bf1a5d9f0e8b8f0c0d53f531f18cf36bdccf1b28 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @31dc002e114f45c735e91846a4ad97e0c733b759 **
 
   * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 22:59:10 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 22:59:37 +0200
 
 bovo (4:16.04.0-1) unstable; urgency=medium
 
