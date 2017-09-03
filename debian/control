@@ -36,6 +36,8 @@ Package: bovo
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: gomoku (five in line) board game
  Bovo is a game where two players take turns placing markers on the board,
  the winner being the first to complete a line of five markers.
