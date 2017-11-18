@@ -10,6 +10,9 @@ bovo (4:17.08.3-1~1) UNRELEASED; urgency=medium
   * New upstream release.
   * Adjust l10npkgs_firstversion_ok to the version where kde-l10n will drop
     translations.
+  * Stop forcing debian/tmp as local installation directory, installing
+    everything to the final location
+    - drop bovo.install, no more useful now
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 17:58:14 +0100
 
